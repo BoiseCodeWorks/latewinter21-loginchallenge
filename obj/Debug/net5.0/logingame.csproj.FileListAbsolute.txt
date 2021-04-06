@@ -1,0 +1,16 @@
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.exe
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.deps.json
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.runtimeconfig.json
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.runtimeconfig.dev.json
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.dll
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\ref\logingame.dll
+C:\source\codeworks\latewinter21\csharp\logingame\bin\Debug\net5.0\logingame.pdb
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.csprojAssemblyReference.cache
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.AssemblyInfoInputs.cache
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.AssemblyInfo.cs
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.csproj.CoreCompileInputs.cache
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.dll
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\ref\logingame.dll
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.pdb
+C:\source\codeworks\latewinter21\csharp\logingame\obj\Debug\net5.0\logingame.genruntimeconfig.cache
